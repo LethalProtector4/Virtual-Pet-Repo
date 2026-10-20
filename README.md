@@ -3,7 +3,7 @@
 ## Names of Pair Working on This Fork
 Everett Neumann
 
-<Enter Name 2 Here>
+Joe Stallo
 
 ## Run from Git Bash
 
