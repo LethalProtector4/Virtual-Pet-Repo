@@ -10,7 +10,7 @@ public class Main {
         Cat cat = new Cat("Luna");
 
 		// Print information about the pets
-        System.out.println("Welcome to our virtual pet shop!");
+        System.out.println("Welcome to the pet shop");
         dog.bark();
         cat.meow();
 
