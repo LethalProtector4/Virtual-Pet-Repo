@@ -1,7 +1,7 @@
 # Virtual Pet Simulator
 
 ## Names of Pair Working on This Fork
-<Enter Name 1 Here>
+Everett Neumann
 
 <Enter Name 2 Here>
 
